@@ -11,7 +11,7 @@ A Tampermonkey userscript that automatically sets YouTube video quality to match
 
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Firefox, etc.).
-2. Click [here](https://raw.githubusercontent.com/OG-Owen/YouTube-Auto-Quality-Controller/main/youtube-auto-quality-controller.user.js) to install the script (or copy the raw URL into Tampermonkey's "Install from URL" feature).
+2. Click [here](https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/raw/refs/heads/main/youtube-quality-controller.user.js) to install the script (or copy the raw URL into Tampermonkey's "Install from URL" feature).
 3. Reload YouTube and enjoy automatic quality control!
 
 ## Configuration
