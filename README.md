@@ -8,19 +8,19 @@ A Tampermonkey userscript that automatically sets YouTube video quality to match
 - Configurable fallback quality via Tampermonkey menu.
 - Debouncing and retries to handle YouTube's dynamic loading.
 - Works on all YouTube pages (`https://*.youtube.com/*`).
-
+  
 ## Installation
-1. Install [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Firefox, etc.).
-2. Click [here](https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/raw/refs/heads/main/youtube-quality-controller.user.js) to install the script (or copy the raw URL into Tampermonkey's "Install from URL" feature).
+1. Install <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey</a> extension for your browser (Chrome, Firefox, etc.).
+2. Click <a href="https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/raw/refs/heads/main/youtube-quality-controller.user.js" target="_blank">here</a> to install the script (or copy the raw URL into Tampermonkey's "Install from URL" feature).
 3. Reload YouTube and enjoy automatic quality control!
-
+   
 ## Configuration
 - Access settings via Tampermonkey menu (right-click the extension icon > script name).
 - Toggle "Always Use Highest Quality".
 - Set fallback quality (default: 1080p).
-
+  
 ## License
 MIT License - see [LICENSE](LICENSE) for details.
 
 ## Support
-Report issues or suggestions [here](https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/issues).
+Report issues or suggestions <a href="https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/issues" target="_blank">here</a>.
