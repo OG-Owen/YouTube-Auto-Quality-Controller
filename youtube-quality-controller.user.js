@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Auto Quality Controller
 // @namespace    https://github.com/OG-Owen/YouTube-Auto-Quality-Controller
-// @version      1.1.1
+// @version      1.1.2
 // @description  Sets YouTube video quality on start
 // @author       OG Owen
 // @match        https://*.youtube.com/*
@@ -16,6 +16,8 @@
 // @license      MIT
 // @homepageURL  https://github.com/OG-Owen/YouTube-Auto-Quality-Controller
 // @supportURL   https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/issues
+// @downloadURL  https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/raw/main/youtube-quality-controller.user.js
+// @updateURL    https://github.com/OG-Owen/YouTube-Auto-Quality-Controller/raw/main/youtube-quality-controller.user.js
 // ==/UserScript==
 
 (function() {
